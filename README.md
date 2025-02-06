@@ -1,6 +1,6 @@
 # Bloom Scroll
 
-Bloom Scroll is a web application designed to help users cultivate digital well-being by providing mindful scrolling tips, progress tracking, and motivational content.
+Bloom Scroll is a web application designed to help users cultivate digital well-being by providing mindful scrolling tips, progress tracking, and motivational content. It is just a landing page right now for assignment purpose.
 
 ## 🚀 Features
 
@@ -50,7 +50,7 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Contributors
 
-- **Khushi Sinha** ([@Khushi-83](https://github.com/your-username))
+- **Khushi Sinha** ([@Khushi-83]([https://github.com/Khushi-83]))
 
 
 
