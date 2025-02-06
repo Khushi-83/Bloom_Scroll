@@ -1,6 +1,7 @@
 # Bloom Scroll
 
 Bloom Scroll is a web application designed to help users cultivate digital well-being by providing mindful scrolling tips, progress tracking, and motivational content. It is just a landing page right now for assignment purpose.
+[https://bloom-scroll-six.vercel.app/]
 
 ## 🚀 Features
 
